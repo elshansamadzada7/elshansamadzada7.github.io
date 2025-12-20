@@ -1,3 +1,28 @@
-theme: merlot
-title: Elshan's Homepage
-description: Computer Engineering Student at ADA University
+# Site settings
+title: "Elshan Samadzada - Portfolio"
+description: "Computer Engineering Student at ADA University. Passionate about programming, AI, and web development."
+author: "Elshan Samadzada"
+email: "elshansamedzade7@gmail.com"
+url: "https://elshansamadzada7.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+  - README.md
+  - DEPLOY.md
+
+# Theme (optional - remove if using custom CSS)
+# theme: minima
