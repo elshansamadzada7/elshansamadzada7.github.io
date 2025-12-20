@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Profile placeholder">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="36" fill="#0b1220"/>
+  <rect x="12" y="12" width="216" height="216" rx="28" fill="url(#grad)" opacity="0.18"/>
+  <circle cx="120" cy="102" r="52" fill="url(#grad)" opacity="0.6"/>
+  <circle cx="120" cy="94" r="40" fill="#0b1220"/>
+  <path d="M120 64a24 24 0 1 1 0 48 24 24 0 0 1 0-48Z" fill="url(#grad)"/>
+  <path d="M62 194c10-32 38-52 58-52s48 20 58 52" fill="#0b1220" stroke="url(#grad)" stroke-width="10" stroke-linecap="round"/>
+  <text x="120" y="204" text-anchor="middle" font-size="18" fill="#e5e7eb" font-family="Inter, system-ui" opacity="0.8">Your Name</text>
+</svg>
+
+

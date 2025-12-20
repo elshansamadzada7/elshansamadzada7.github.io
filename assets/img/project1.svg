@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-label="Project mockup">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" rx="22" fill="#0b1220"/>
+  <rect x="20" y="24" width="560" height="312" rx="18" fill="#0f172a" stroke="url(#grad1)" stroke-width="4"/>
+  <rect x="46" y="72" width="320" height="188" rx="14" fill="#111b2f" stroke="#1f2b45" stroke-width="3"/>
+  <rect x="386" y="72" width="168" height="48" rx="12" fill="url(#grad1)" opacity="0.18"/>
+  <rect x="386" y="130" width="168" height="48" rx="12" fill="url(#grad1)" opacity="0.14"/>
+  <rect x="386" y="188" width="168" height="72" rx="12" fill="url(#grad1)" opacity="0.1"/>
+  <text x="60" y="118" fill="#e5e7eb" font-size="28" font-family="Inter, system-ui">Project One</text>
+  <text x="60" y="150" fill="#94a3b8" font-size="16" font-family="Inter, system-ui">Responsive layout mock</text>
+  <circle cx="80" cy="250" r="10" fill="#38bdf8"/>
+  <circle cx="112" cy="250" r="10" fill="#a855f7"/>
+  <circle cx="144" cy="250" r="10" fill="#22d3ee"/>
+</svg>
+
+
