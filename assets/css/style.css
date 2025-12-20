@@ -443,6 +443,18 @@ textarea:focus-visible {
   .profile__frame {
     width: min(100%, 300px);
   }
+
+  /* Who I Am section responsive */
+  .who-i-am {
+    grid-template-columns: 1fr !important;
+    text-align: center;
+    gap: 16px !important;
+  }
+
+  .who-i-am > div:first-child {
+    display: flex;
+    justify-content: center;
+  }
 }
 
 @media (max-width: 560px) {
