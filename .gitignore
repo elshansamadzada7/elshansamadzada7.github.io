@@ -30,6 +30,14 @@ build/
 *.min.js
 *.min.css
 
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+
 # Environment variables
 .env
 .env.local
